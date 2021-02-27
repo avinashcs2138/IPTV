@@ -66,8 +66,9 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/CS9tJQuY1O/96195
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/CS9tJQuY1O/96196
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND PICTURES HD" tvg-logo="" group-title="HINDI",HINDI: AND PICTURES HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/CS9tJQuY1O/96197
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND TV HD" tvg-logo="" group-title="HINDI",HINDI: AND TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/CS9tJQuY1O/96198
+#EXTINF:-1 tvg-ID="472" tvg-name="HINDI: AND TV HD" tvg-logo="" group-title="HINDI",HINDI: AND TV HD
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/CS9tJQuY1O/96198
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvhd_0
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ANIMAL PLANET HD" tvg-logo="" group-title="HINDI",HINDI: ANIMAL PLANET HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/CS9tJQuY1O/96199
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ARIHANT" tvg-logo="" group-title="HINDI",HINDI: ARIHANT
