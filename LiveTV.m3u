@@ -33,7 +33,8 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96178
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96179
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SonyHD.m3u8
 #EXTINF:-1 tvg-ID="476" tvg-name="HINDI: SONY MAX HD" tvg-logo="" group-title="HINDI",HINDI: SONY MAX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96180
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96180
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SETMaxHD.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX 2" tvg-logo="" group-title="HINDI",HINDI: SONY MAX 2
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96181
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PIX HD" tvg-logo="" group-title="HINDI",HINDI: SONY PIX HD
