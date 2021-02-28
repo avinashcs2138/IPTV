@@ -14,7 +14,8 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96169
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96170
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/ZeeTVHD.m3u8
 #EXTINF:-1 tvg-ID="165" tvg-name="HINDI: ZEE CINEMA HD" tvg-logo="" group-title="HINDI",HINDI: ZEE CINEMA HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96171
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96171
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/ZeeCinemaHD.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZING" tvg-logo="" group-title="HINDI",HINDI: ZING
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96172
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="" group-title="HINDI",HINDI: STAR BHARAT HD
