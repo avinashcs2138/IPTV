@@ -52,7 +52,8 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96188
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: B4U MOVIES" tvg-logo="" group-title="HINDI",HINDI: B4U MOVIES
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96189
 #EXTINF:-1 tvg-ID="144" tvg-name="HINDI: COLORS HD" tvg-logo="" group-title="HINDI",HINDI: COLORS HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96190
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96190
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/ColorsHD.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: 9X JALWA" tvg-logo="" group-title="HINDI",HINDI: 9X JALWA
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Qzcm19Rqm3/96191
 #EXTINF:-1 tvg-ID="173" tvg-name="HINDI: AAJ TAK HD" tvg-logo="" group-title="HINDI",HINDI: AAJ TAK HD
