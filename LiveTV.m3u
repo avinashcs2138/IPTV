@@ -704,8 +704,9 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/NAjwBWDkLO/93730
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/NAjwBWDkLO/93731
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: FOX 501 HD" tvg-logo="https://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc.jpg" group-title="SPORTS",SPORTS: FOX 501 HD
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 1 HD" tvg-logo="" group-title="SPORTS",SPORTS: TEN 1 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/NAjwBWDkLO/93732
+#EXTINF:-1 tvg-ID="162" tvg-name="SPORTS: TEN 1 HD" tvg-logo="" group-title="SPORTS",SPORTS: TEN 1 HD
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/NAjwBWDkLO/93732
+https://bit.ly/3dTEEln
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 2 HD" tvg-logo="" group-title="SPORTS",SPORTS: TEN 2 HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/NAjwBWDkLO/93733
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 3 HD" tvg-logo="" group-title="SPORTS",SPORTS: TEN 3 HD
