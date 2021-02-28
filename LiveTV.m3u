@@ -812,7 +812,8 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H9OP8IFYDv/93574
 #EXTINF:-1 tvg-ID="723" tvg-name="MAL: AMRITHA TV" tvg-logo="" group-title="MALAYALAM",MAL: AMRITHA TV
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H9OP8IFYDv/93575
 #EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H9OP8IFYDv/93576
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H9OP8IFYDv/93576
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/AsianetHD.m3u8
 #EXTINF:-1 tvg-ID="459" tvg-name="MAL: ASIANET MOVIE" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET MOVIE
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H9OP8IFYDv/93577
 #EXTINF:-1 tvg-ID="ts532" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Asianet%20News.png" group-title="MALAYALAM",MAL: ASIANET NEWS HD
