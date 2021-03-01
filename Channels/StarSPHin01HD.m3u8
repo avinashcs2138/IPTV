@@ -3,5 +3,6 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10.0,
-http://ac.mustardsubs.tk:8880/nqxONQzQsT/VsT6u3OIFt/585921?play_token=kuR6XXMrq6
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://ac.mustardsubs.tk:8880/nqxONQzQsT/VsT6u3OIFt/585921?play_token=GCQG3x2Ps2
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jBYKEx8N0R/93725
