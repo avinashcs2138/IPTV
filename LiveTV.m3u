@@ -862,7 +862,7 @@ https://bit.ly/3dZ65KM
 https://bit.ly/2O7uuTs
 #EXTINF:-1 tvg-ID="Alsharqya" tvg-name="MAL: ASIANET HD - TEST" tvg-logo="" url-epg="https://raw.githubusercontent.com/hmemar/husham.com/master/EPG/hushamcomepg.xml" group-title="MALAYALAM",MAL: ASIANET HD - TEST
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/66771
-#EXTINF:-1 tvg-ID="459" tvg-name="MAL: ASIANET MOVIES" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET MOVIES
+#EXTINF:-1 tvg-ID="459" tvg-name="MAL: ASIANET MOVIES" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="MALAYALAM",MAL: ASIANET MOVIES
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/ZmbZanruKa/93577
 https://bit.ly/2NNcqyo
 #EXTINF:-1 tvg-ID="ts532" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Asianet%20News.png" group-title="MALAYALAM",MAL: ASIANET NEWS HD
