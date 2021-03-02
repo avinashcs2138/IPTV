@@ -673,7 +673,7 @@ https://bit.ly/3raoyYt
 #EXTINF:-1 tvg-ID="758" tvg-name="TELUGU: STAR MAA HD" tvg-logo="" group-title="TELUGU",TELUGU: STAR MAA HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/JuHd1cPMSc/95874
 https://bit.ly/3bLZH6L
-#EXTINF:-1 tvg-ID="758" tvg-name="TELUGU: STAR MAA HD - TEST" tvg-logo="" group-title="TELUGU",TELUGU: STAR MAA HD - TEST
+#EXTINF:-1 tvg-ID="758" tvg-name="TELUGU: STAR MAA HD - BACKUP" tvg-logo="" group-title="TELUGU",TELUGU: STAR MAA HD - BACKUP
 http://188.93.238.6:80/nqxONQzQsT/VsT6u3OIFt/586153?play_token=IPvkFmSTi9&token=SBNbWEZdQA0VAVJYBwIEX1ZRCFJWB1JWVlZSAwJSDwcEUgdcVwRaUQYXHRtEEEMDVglnWVAXW1NeUA8NA00bE0BUQWZcUUANFQQDDwBQBUQbRkxZWVBDXFdTBwECVQ1VCgAfG0VcBhUNFwUJBFwTShUBQERRRw8HCjpSUEIIWgMRC11MWVlOFVhbbl1SCVAIU0YCEgQXTUQPFkYXDg9MCl8dEVtcQRBWQ1ATAxVWAFcCRhQSV1oUCBIXTxcOQ2w1ER0RXE1BB1lEXF5XFV4TEkRGFBJdRj4UAxZCR1EAVANBEwkbBRdOFVpUSWZUC18IUgdMWVtbEkRcRwcXGENUCV1YR1ZHahJeUxcLGwVdBVQDRkU=
 #EXTINF:-1 tvg-ID="760" tvg-name="TELUGU: STAR MAA MOVIES HD" tvg-logo="" group-title="TELUGU",TELUGU: STAR MAA MOVIES HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/JuHd1cPMSc/95875
@@ -720,7 +720,7 @@ https://bit.ly/3q3PLe5
 #EXTINF:-1 tvg-ID="362" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD HINDI
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/JuHd1cPMSc/93725
 https://bit.ly/3qa9jh7
-#EXTINF:-1 tvg-ID="362" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI - TEST" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD HINDI - TEST
+#EXTINF:-1 tvg-ID="362" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI - BACKUP" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD HINDI - BACKUP
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/55227
 #EXTINF:-1 tvg-ID="160" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 2 HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/JuHd1cPMSc/93726
@@ -860,7 +860,7 @@ https://bit.ly/3dZ65KM
 #EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/JuHd1cPMSc/93576
 https://bit.ly/2O7uuTs
-#EXTINF:-1 tvg-ID="Alsharqya" tvg-name="MAL: ASIANET HD - TEST" tvg-logo="" url-epg="https://raw.githubusercontent.com/hmemar/husham.com/master/EPG/hushamcomepg.xml" group-title="MALAYALAM",MAL: ASIANET HD - TEST
+#EXTINF:-1 tvg-ID="Alsharqya" tvg-name="MAL: ASIANET HD - BACKUP" tvg-logo="" url-epg="https://raw.githubusercontent.com/hmemar/husham.com/master/EPG/hushamcomepg.xml" group-title="MALAYALAM",MAL: ASIANET HD - BACKUP
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/66771
 #EXTINF:-1 tvg-ID="459" tvg-name="MAL: ASIANET MOVIES" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="MALAYALAM",MAL: ASIANET MOVIES
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/JuHd1cPMSc/93577
