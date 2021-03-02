@@ -854,9 +854,6 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gLBfK6KDZN/93685
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== MALAYALAM =====" tvg-logo="" group-title="MALAYALAM",===== MALAYALAM - 28 CHANNELS =====
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gLBfK6KDZN/93571
-#EXTINF:-1 tvg-ID="563" tvg-name="MAL: KAUMUDY" tvg-logo="" group-title="MALAYALAM",MAL: KAUMUDY
-## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gLBfK6KDZN/93573
-https://bit.ly/3bWUsBd
 #EXTINF:-1 tvg-ID="606" tvg-name="MAL: SHOLAM TV" tvg-logo="" group-title="MALAYALAM",MAL: SHOLAM TV
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gLBfK6KDZN/93574
 https://bit.ly/3uVKLvV
@@ -904,6 +901,9 @@ https://bit.ly/308G43o
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: KOCHU TV" tvg-logo="" group-title="MALAYALAM",MAL: KOCHU TV
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gLBfK6KDZN/93587
 https://bit.ly/3e3KGAe
+#EXTINF:-1 tvg-ID="563" tvg-name="MAL: KAUMUDY" tvg-logo="" group-title="MALAYALAM",MAL: KAUMUDY
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gLBfK6KDZN/93573
+https://bit.ly/3bWUsBd
 #EXTINF:-1 tvg-ID="662" tvg-name="MAL: MANORAMA NEWS" tvg-logo="" group-title="MALAYALAM",MAL: MANORAMA NEWS
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gLBfK6KDZN/93588
 https://bit.ly/3e62rip
