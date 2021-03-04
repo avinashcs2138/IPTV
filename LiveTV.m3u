@@ -38,7 +38,8 @@ https://bit.ly/3sz7Fam
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96179
 https://bit.ly/3r2OXaG
 #EXTINF:-1 tvg-ID="154" tvg-name="HINDI: SONY SAB HD" tvg-logo="" group-title="HINDI-ENTERTAINMENT",HINDI: SONY SAB HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96184
+## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96184
+https://bit.ly/3uQJ0zZ
 #EXTINF:-1 tvg-ID="931" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="" group-title="HINDI-ENTERTAINMENT",HINDI: STAR BHARAT HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96173
 https://bit.ly/2PzE8iv
@@ -65,6 +66,9 @@ https://bit.ly/3dQNnor
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== HINDI - MUSIC =====" tvg-logo="" group-title="HINDI-MUSIC",===== HINDI - MUSIC =====
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96166
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MIX HD" tvg-logo="" group-title="HINDI-MUSIC",HINDI: SONY MIX HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96188
+
 
 
 
@@ -88,8 +92,6 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96185
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96186
 #EXTINF:-1 tvg-ID="872" tvg-name="HINDI: SONY YAY" tvg-logo="" group-title="HINDI",HINDI: SONY YAY
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96187
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MIX HD" tvg-logo="" group-title="HINDI",HINDI: SONY MIX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96188
 #EXTINF:-1 tvg-ID="182" tvg-name="HINDI: B4U MOVIES" tvg-logo="" group-title="HINDI",HINDI: B4U MOVIES
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/Z9UFiCMeSU/96189
 #EXTINF:-1 tvg-ID="440" tvg-name="HINDI: 9X JALWA" tvg-logo="" group-title="HINDI",HINDI: 9X JALWA
