@@ -39,7 +39,7 @@ https://bit.ly/3qgdQ1e
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI - ENTERTAINMENT =====" tvg-logo="" group-title="HINDI-ENTERTAINMENT",===== HINDI - ENTERTAINMENT =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI - ENTERTAINMENT =====" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="HINDI-ENTERTAINMENT",===== HINDI - ENTERTAINMENT =====
 https://bit.ly/30ghded
 #EXTINF:-1 tvg-ID="472" tvg-name="HINDI: AND TV HD" tvg-logo="" group-title="HINDI-ENTERTAINMENT",HINDI: AND TV HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/OsvwiFExS2/96198
@@ -71,7 +71,7 @@ https://bit.ly/2ZUoD6E
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI - NEWS =====" tvg-logo="" group-title="HINDI-NEWS",===== HINDI - NEWS =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI - NEWS =====" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="HINDI-NEWS",===== HINDI - NEWS =====
 https://bit.ly/30ghded
 #EXTINF:-1 tvg-ID="173" tvg-name="HINDI: AAJ TAK HD" tvg-logo="" group-title="HINDI-NEWS",HINDI: AAJ TAK HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/OsvwiFExS2/96192
@@ -83,7 +83,7 @@ https://bit.ly/3c0JpHf
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI - MUSIC =====" tvg-logo="" group-title="HINDI-MUSIC",===== HINDI - MUSIC =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI - MUSIC =====" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="HINDI-MUSIC",===== HINDI - MUSIC =====
 https://bit.ly/30ghded
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MIX HD" tvg-logo="" group-title="HINDI-MUSIC",HINDI: SONY MIX HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/OsvwiFExS2/96188
@@ -112,7 +112,7 @@ https://bit.ly/3e8VXiC
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI =====" tvg-logo="" group-title="HINDI",===== HINDI =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== HINDI =====" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="HINDI",===== HINDI =====
 https://bit.ly/30ghded
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: CORONA VIRUS INFO" tvg-logo="http://www.vodkom.com:25461/Logo/corona.png" group-title="HINDI",HINDI: CORONA VIRUS INFO
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/OsvwiFExS2/96167
@@ -422,7 +422,7 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/OsvwiFExS2/96360
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/OsvwiFExS2/116087
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="===== ODIA ===== " tvg-logo="" group-title="ODIA",===== ODIA ===== 
+#EXTINF:-1 tvg-ID="" tvg-name="===== ODIA ===== " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="ODIA",===== ODIA ===== 
 https://bit.ly/30ghded
 #EXTINF:-1 tvg-ID="" tvg-name="ODIA: TARANG TV" tvg-logo="" group-title="ODIA",ODIA: TARANG TV
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/OsvwiFExS2/96361
