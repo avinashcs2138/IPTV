@@ -41,8 +41,6 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96343
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96344
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ETC BOLLYWOOD" tvg-logo="" group-title="HINDI-MOVIES",HINDI: ZEE ETC BOLLYWOOD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96345
-#EXTINF:-1 tvg-ID="ts142" tvg-name="HINDI: BINDASS MOVIES" tvg-logo="" group-title="HINDI-MOVIES",HINDI: BINDASS MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96203
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEMA TV" tvg-logo="" group-title="HINDI-MOVIES",HINDI: CINEMA TV
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96271
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: WOW CINEMA" tvg-logo="" group-title="HINDI-MOVIES",HINDI: WOW CINEMA
@@ -213,6 +211,9 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96236
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96237
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: MUSIC INDIA" tvg-logo="" group-title="HINDI-MUSIC",HINDI: MUSIC INDIA
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96238
+#EXTINF:-1 tvg-ID="ts142" tvg-name="HINDI: BINDASS" tvg-logo="" group-title="HINDI-MUSIC",HINDI: BINDASS
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96203
+
 
 
 
