@@ -163,6 +163,10 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96199
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96218
 #EXTINF:-1 tvg-ID="575" tvg-name="HINDI: DISCOVERY WORLD HD" tvg-logo="" group-title="HINDI-ADVENTURES",HINDI: DISCOVERY WORLD HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96219
+#EXTINF:-1 tvg-ID="ts413" tvg-name="HINDI: NAT GEO WILD HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Nat%20Geo%20Wild%20HD.png" group-title="HINDI-ADVENTURES",HINDI: NAT GEO WILD HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96239
+#EXTINF:-1 tvg-ID="ts605" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/National%20Geographic%20HD.png" group-title="HINDI-ADVENTURES",HINDI: NATIONAL GEOGRAPHIC HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96240
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: EPIC HD" tvg-logo="" group-title="HINDI-ADVENTURES",HINDI: EPIC HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96222
 #EXTINF:-1 tvg-ID="821" tvg-name="HINDI: SONY BBC EARTH HD" tvg-logo="" group-title="HINDI-ADVENTURES",HINDI: SONY BBC EARTH HD
@@ -226,10 +230,6 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96227
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96232
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: MINIPLEX HD" tvg-logo="" group-title="HINDI",HINDI: MINIPLEX HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96234
-#EXTINF:-1 tvg-ID="ts413" tvg-name="HINDI: NAT GEO WILD HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Nat%20Geo%20Wild%20HD.png" group-title="HINDI",HINDI: NAT GEO WILD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96239
-#EXTINF:-1 tvg-ID="ts605" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/National%20Geographic%20HD.png" group-title="HINDI",HINDI: NATIONAL GEOGRAPHIC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96240
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 18 ASSAM" tvg-logo="" group-title="HINDI",HINDI: NEWS 18 ASSAM
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96241
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA BIHAR" tvg-logo="" group-title="HINDI",HINDI: SAHARA BIHAR
