@@ -259,8 +259,6 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96271
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96272
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: GANGA" tvg-logo="" group-title="HINDI",HINDI: GANGA
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96273
-#EXTINF:-1 tvg-ID="0-9-channel_2105335046" tvg-name="HINDI: AND FLIX HD" tvg-logo="" group-title="HINDI",HINDI: AND FLIX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96274
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISH CINE ACTIVE" tvg-logo="" group-title="HINDI",HINDI: DISH CINE ACTIVE
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96275
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: EVERGREEN CLASSIC" tvg-logo="" group-title="HINDI",HINDI: EVERGREEN CLASSIC
@@ -821,6 +819,8 @@ https://bit.ly/3bQ61ub
 https://bit.ly/30ghded
 #EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: AND FLIX HD" tvg-logo="" group-title="ENGLISH",ENGLISH: AND FLIX HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/93643
+#EXTINF:-1 tvg-ID="0-9-channel_2105335046" tvg-name="ENGLISH: AND FLIX HD - BACK-UP" tvg-logo="" group-title="ENGLISH",ENGLISH: AND FLIX HD - BACK-UP
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/96274
 #EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: AND PRIVE HD" tvg-logo="" group-title="ENGLISH",ENGLISH: AND PRIVE HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/H0E0YGQwwo/93644
 #EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: AXN HD" tvg-logo="" group-title="ENGLISH",ENGLISH: AXN HD
