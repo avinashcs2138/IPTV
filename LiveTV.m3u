@@ -394,10 +394,6 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96283
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96284
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ISHWAR TV" tvg-logo="" group-title="HINDI",HINDI: ISHWAR TV
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96289
-#EXTINF:-1 tvg-ID="532" tvg-name="HINDI: DABANGG" tvg-logo="" group-title="HINDI",HINDI: DABANGG
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96293
-#EXTINF:-1 tvg-ID="701" tvg-name="HINDI: DANGAL" tvg-logo="" group-title="HINDI",HINDI: DANGAL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96296
 #EXTINF:-1 tvg-ID="584" tvg-name="HINDI: MASTII" tvg-logo="" group-title="HINDI",HINDI: MASTII
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96297
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SAHARA FILMY" tvg-logo="" group-title="HINDI",HINDI: SAHARA FILMY
@@ -525,7 +521,7 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/95777
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/95778
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="===== BHOJPURI ===== " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="BHOJPURI",===== BHOJPURI - 4 CHANNELS ===== 
+#EXTINF:-1 tvg-ID="" tvg-name="===== BHOJPURI ===== " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="BHOJPURI",===== BHOJPURI - 6 CHANNELS ===== 
 https://bit.ly/30ghded
 #EXTINF:-1 tvg-ID="" tvg-name="BHOJPURI: DANGAL" tvg-logo="" group-title="BHOJPURI",BHOJPURI: DANGAL
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/95780
@@ -535,6 +531,11 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/95781
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/95782
 #EXTINF:-1 tvg-ID="" tvg-name="BHOJPURI: BHOJPURI CINEMA" tvg-logo="" group-title="BHOJPURI",BHOJPURI: BHOJPURI CINEMA
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/95783
+#EXTINF:-1 tvg-ID="532" tvg-name="BHOJPURI: DABANGG" tvg-logo="" group-title="BHOJPURI",BHOJPURI: DABANGG
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96293
+#EXTINF:-1 tvg-ID="701" tvg-name="BHOJPURI: DANGAL" tvg-logo="" group-title="BHOJPURI",BHOJPURI: DANGAL
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96296
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== GUJARATI ===== " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg" group-title="GUJARATI",===== GUJARATI - 30 CHANNELS ===== 
