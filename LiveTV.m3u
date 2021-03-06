@@ -277,10 +277,12 @@ https://bit.ly/30ghded
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96187
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: NICK PLUS HD" tvg-logo="" group-title="INDIA-KIDS",HINDI: NICK PLUS HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96248
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="" group-title="HINDI-KIDS",HINDI: POGO KIDS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="" group-title="INDIA-KIDS",HINDI: POGO KIDS
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96270
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY SD" tvg-logo="" group-title="HINDI-KIDS",HINDI: DISNEY SD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY SD" tvg-logo="" group-title="INDIA-KIDS",HINDI: DISNEY SD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96278
+#EXTINF:-1 tvg-ID="ts298" tvg-name="HINDI: BABY TV HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Baby%20TV%20HD.png" group-title="INDIA-KIDS",HINDI: BABY TV HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96201
 
 
 
@@ -318,8 +320,6 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96169
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96172
 #EXTINF:-1 tvg-ID="1530" tvg-name="HINDI: SONY PIX HD" tvg-logo="" group-title="HINDI",HINDI: SONY PIX HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96182
-#EXTINF:-1 tvg-ID="ts298" tvg-name="HINDI: BABY TV HD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Baby%20TV%20HD.png" group-title="HINDI",HINDI: BABY TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96201
 #EXTINF:-1 tvg-ID="0-9-bigmagic_1786965389" tvg-name="HINDI: BIG MAGIC HD" tvg-logo="" group-title="HINDI",HINDI: BIG MAGIC HD
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/jG3T8eiPOz/96202
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: HUNGAMA BHAKTI SAGAR HD" tvg-logo="" group-title="HINDI",HINDI: HUNGAMA BHAKTI SAGAR HD
