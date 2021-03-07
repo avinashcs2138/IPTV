@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : ENGLISH
 https://dai.google.com/linear/hls/pa/event/1Oe_ENyLRfS9ypV3CF_MMA/stream/af545678-db73-4ce0-b108-4b605a6338a8:BRU/variant/abeb14891635cb2b5bb6e84352dfd4c3/bandwidth/2934800.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : HINDI
+#EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : HINDI" tvg-logo="https://usppload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : HINDI
 https://dai.google.com/linear/hls/pa/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/bdd69e0b-6b07-49ba-81e4-a6c0c9fff1cb:BRU/variant/ea1b70b6b811d42fefa9170f613ffbad/bandwidth/2934800.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : ENGLISH - TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : ENGLISH - TEST
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/225/assetId/924359/assetType/media/assetFileId/10769131/contextType/PLAYBACK/ks/djJ8MjI1fM4QmjdWX8y0_IYyT-zEVILrZwi7rulUjSk7pMe3GRis31UHtyk-YwPpNzk31ZHpCQEG2WAhISMn8a2ortnH3_hrYT7wXr66390pC_tT4IHTcMtk-rxgQDkRjZMpuEe0z2n7Msj8N-Mjd44jqEmroPDG6AO_SiR9r6GEJf34333Dx9MMrJ6gIOPEGSw8CuqlxK_lxkKU_U5ZYOXxBYIG2paNmPlrr3fVMOFok95AsGQb4pm9yEQG5O8sAs7qzGi8EqPLpV8lctRsV7HgQ2SYwZgT098QewhG3CJEwJ6ySRahlAcBTKNnmgh91k1DDClP9ih6l2Ia2kAVv7n1BdL-eFYnuPLxtdSM9iGGGmi5V7V5PZsUOfPDbtKglBeDnS51iXVKpLdZbKZrscrP4ft_WX8va7ETKOtGGq85mzgXBHoqxRzQgbKI_pvqyAvgdWvYD7W0W8HS5Y-J6QygmFOEgquk9A9ixRuDLr3Pm249nch9-VssBoZW1svTygKywuSbLg==/a.m3u8
@@ -845,6 +845,8 @@ https://bit.ly/3kTnllV
 #EXTINF:-1 tvg-ID="" tvg-name="US: NBCSN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="SPORTS",US: NBCSN HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/UzL540pFvt/117238
 https://bit.ly/2MUPNYh
+#EXTINF:-1 tvg-id="" tvg-name="US063:NBCSN-HD - BACKUP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN-HD.png" group-title="SPORTS",US063:NBCSN-HD - BACKUP
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/3105
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="SPORTS",SPORTS: WILLOW CRICKET HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/UzL540pFvt/93735
 https://bit.ly/3bQ61ub
