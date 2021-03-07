@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : ENGLISH
 https://dai.google.com/linear/hls/pa/event/1Oe_ENyLRfS9ypV3CF_MMA/stream/af545678-db73-4ce0-b108-4b605a6338a8:BRU/variant/abeb14891635cb2b5bb6e84352dfd4c3/bandwidth/2934800.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : HINDI
+#EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : HINDI" tvg-logo="https://usppload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : HINDI
 https://dai.google.com/linear/hls/pa/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/bdd69e0b-6b07-49ba-81e4-a6c0c9fff1cb:BRU/variant/ea1b70b6b811d42fefa9170f613ffbad/bandwidth/2934800.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ROAD SAFETY SERIES : ENGLISH - TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" group-title="ROAD SAFETY SERIES",ROAD SAFETY SERIES : ENGLISH - TEST
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/225/assetId/924359/assetType/media/assetFileId/10769131/contextType/PLAYBACK/ks/djJ8MjI1fM4QmjdWX8y0_IYyT-zEVILrZwi7rulUjSk7pMe3GRis31UHtyk-YwPpNzk31ZHpCQEG2WAhISMn8a2ortnH3_hrYT7wXr66390pC_tT4IHTcMtk-rxgQDkRjZMpuEe0z2n7Msj8N-Mjd44jqEmroPDG6AO_SiR9r6GEJf34333Dx9MMrJ6gIOPEGSw8CuqlxK_lxkKU_U5ZYOXxBYIG2paNmPlrr3fVMOFok95AsGQb4pm9yEQG5O8sAs7qzGi8EqPLpV8lctRsV7HgQ2SYwZgT098QewhG3CJEwJ6ySRahlAcBTKNnmgh91k1DDClP9ih6l2Ia2kAVv7n1BdL-eFYnuPLxtdSM9iGGGmi5V7V5PZsUOfPDbtKglBeDnS51iXVKpLdZbKZrscrP4ft_WX8va7ETKOtGGq85mzgXBHoqxRzQgbKI_pvqyAvgdWvYD7W0W8HS5Y-J6QygmFOEgquk9A9ixRuDLr3Pm249nch9-VssBoZW1svTygKywuSbLg==/a.m3u8
@@ -1548,3 +1548,10 @@ http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65505.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E09" tvg-logo="http://mu01.iflyhd.com:8880/images/03d0ede9c1f186137d44ddfe5168c601.jpg" group-title="Arrow - English",Arrow S08 E09
 http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65506.mkv
 
+<<<<<<< HEAD
+=======
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 2 - Malayalam - Amazon Original" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RiZDVjYWEtZGNhYy00ZGU0LTgwZjMtZTJmNmMyNGQ5NGYyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY1200_CR84,0,630,1200_AL_.jpg" group-title="Movies - Testing",Drishyam 2 - Malayalam - Amazon Original
+https://eu1rgn-down.file.samsungcloud.com/file/v2/blobs/f62bba307acc11eb8bf3064e74285593/signed?signature=omX02ABUUGFJcFi8J544OdRMsqSo86wiaUNePMI3Tr98dLuFO06krPg2Paa5DeGeEV4j_pO1jrk0W3iLZcMKziPWryGIFVRR7_nW7fLrg7EUEFomgQUnXHykGsSAu_TRWxMy7r5ZIV6RqttQXtMEjfo70hZJ5fXKBiVJ7OQznGFTe8VlSCLQndHSRdZVzDQnh-NqVtE5RfEhrH-6_FIylDo2ndp8vNrQyOCM95VZfPIGGXL7BNOK0p0WAJP4VYn6&v=540794685&cid=A411ZXFWwq&name=%40Mm_Linkz%20Drishyam%202%20(2021)%20Malayalam%20720p%20WEB-DL%20HEVC.mkv
+>>>>>>> branch 'main' of git@github.com:avinashcs2138/IPTV.git
