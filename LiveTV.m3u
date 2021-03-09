@@ -801,9 +801,9 @@ https://bit.ly/3q3PLe5
 #EXTINF:-1 tvg-ID="362" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD HINDI
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gvm051pYQh/93725
 https://bit.ly/3qa9jh7
-#EXTINF:-1 tvg-ID="159" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH - BACKUP" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD ENGLISH - BACKUP
+#EXTINF:-1 tvg-ID="159" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH - BACKUP" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD ENGLISH - BACKUP *
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1893
-#EXTINF:-1 tvg-ID="362" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI - BACKUP" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD HINDI - BACKUP
+#EXTINF:-1 tvg-ID="362" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI - BACKUP" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 1 HD HINDI - BACKUP *
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/55227
 #EXTINF:-1 tvg-ID="160" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="" group-title="SPORTS",SPORTS: STAR SPORTS 2 HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gvm051pYQh/93726
@@ -850,7 +850,7 @@ https://bit.ly/3kTnllV
 #EXTINF:-1 tvg-ID="" tvg-name="US: NBCSN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="SPORTS",US: NBCSN HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gvm051pYQh/117238
 https://bit.ly/2MUPNYh
-#EXTINF:-1 tvg-id="" tvg-name="US063:NBCSN-HD - BACKUP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN-HD.png" group-title="SPORTS",US063:NBCSN-HD - BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="US063:NBCSN-HD - BACKUP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN-HD.png" group-title="SPORTS",US063:NBCSN-HD - BACKUP *
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/3105
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="SPORTS",SPORTS: WILLOW CRICKET HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gvm051pYQh/93735
@@ -964,7 +964,7 @@ https://bit.ly/3dZ65KM
 #EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET HD
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gvm051pYQh/93576
 https://bit.ly/2O7uuTs
-#EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD - BACKUP" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET HD - BACKUP
+#EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD - BACKUP" tvg-logo="" group-title="MALAYALAM",MAL: ASIANET HD - BACKUP *
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/66771
 #EXTINF:-1 tvg-ID="459" tvg-name="MAL: ASIANET MOVIES" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="MALAYALAM",MAL: ASIANET MOVIES
 ## http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/gvm051pYQh/93577
