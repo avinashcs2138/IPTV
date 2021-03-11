@@ -1560,9 +1560,34 @@ http://a2.okbetter.club:8880/series/wh12m3101/XRCKYwP3Lw/65506.mkv
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== INDIA - 4K Dolby Digital - Testing =====" tvg-logo="https://vgboxart.com/resources/logo/12573_dolby-digital-gold-prev.jpg" group-title="INDIA - 4K Dolby Digital",===== INDIA - 4K Dolby Digital - Testing =====
 https://bit.ly/30ghded
-#EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD 01" tvg-logo="" group-title="INDIA - 4K Dolby Digital",MAL: ASIANET HD 01
-## http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86173
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/Asianet4KDD.m3u8
-#EXTINF:-1 tvg-ID="443" tvg-name="MAL: ASIANET HD 02" tvg-logo="" group-title="INDIA - 4K Dolby Digital",MAL: ASIANET HD 02
-http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/49311
+#EXTINF:-1 tvg-ID="159" tvg-name="IN | STAR SPORTS 1 FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",IN | STAR SPORTS 1 FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/83997
+#EXTINF:-1 tvg-ID="443" tvg-name="|IN| Asianet FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| Asianet FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86173
+#EXTINF:-1 tvg-ID="144" tvg-name="|IN| Colors FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| Colors FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86174
+#EXTINF:-1 tvg-ID="1158" tvg-name="|IN| Colors INFINITY FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| Colors INFINITY FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86182
+#EXTINF:-1 tvg-ID="154" tvg-name="|IN| SAB FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| SAB FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86177
+#EXTINF:-1 tvg-ID="291" tvg-name="|IN| SET FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| SET FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86178
+#EXTINF:-1 tvg-ID="931" tvg-name="|IN| STAR BHARAT FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| STAR BHARAT FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86179
+#EXTINF:-1 tvg-ID="156" tvg-name="|IN| Star GOLD FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| Star GOLD FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86170
+#EXTINF:-1 tvg-ID="158" tvg-name="|IN| Star Plus FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| Star Plus FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86172
+#EXTINF:-1 tvg-ID="ts521" tvg-name="|IN| SUN TV FHD" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Sun%20TV%20HD.png" group-title="INDIA - 4K Dolby Digital",|IN| SUN TV FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86180
+#EXTINF:-1 tvg-ID="368" tvg-name="|IN| VIJAY FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| VIJAY FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86181
+#EXTINF:-1 tvg-ID="0-9-zeecafehd" tvg-name="|IN| ZEE Cafe FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| ZEE Cafe FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86168
+#EXTINF:-1 tvg-ID="165" tvg-name="|IN| ZEE CINEMA FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| ZEE CINEMA FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86167
+#EXTINF:-1 tvg-ID="167" tvg-name="|IN| ZEE TV FHD" tvg-logo="" group-title="INDIA - 4K Dolby Digital",|IN| ZEE TV FHD
+http://grats.sralm87.com:2082/adil-327_190585/cX988wkH/86169
+
+
 
